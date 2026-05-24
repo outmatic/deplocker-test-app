@@ -1,0 +1,5 @@
+app: deplocker-test-app
+services:
+  web:
+    subdomain: test
+    port: 80
